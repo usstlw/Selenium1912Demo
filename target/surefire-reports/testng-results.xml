@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite (0)" duration-ms="10" started-at="2020-01-01T13:19:55 CST" finished-at="2020-01-01T13:19:55 CST">
+    <groups>
+    </groups>
+    <test name="SeleniumDemo1912" duration-ms="10" started-at="2020-01-01T13:19:55 CST" finished-at="2020-01-01T13:19:55 CST">
+      <class name="com.meyoung.day1.Assertdemo">
+        <test-method status="PASS" signature="assertEqual()[pri:0, instance:com.meyoung.day1.Assertdemo@289d1c02]" name="assertEqual" duration-ms="2" started-at="2020-01-01T13:19:55 CST" finished-at="2020-01-01T13:19:55 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertEqual -->
+        <test-method status="PASS" signature="assertNotEqual()[pri:0, instance:com.meyoung.day1.Assertdemo@289d1c02]" name="assertNotEqual" duration-ms="4" started-at="2020-01-01T13:19:55 CST" finished-at="2020-01-01T13:19:55 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertNotEqual -->
+        <test-method status="PASS" signature="assertNotNull()[pri:0, instance:com.meyoung.day1.Assertdemo@289d1c02]" name="assertNotNull" duration-ms="0" started-at="2020-01-01T13:19:55 CST" finished-at="2020-01-01T13:19:55 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertNotNull -->
+        <test-method status="PASS" signature="assertNull()[pri:0, instance:com.meyoung.day1.Assertdemo@289d1c02]" name="assertNull" duration-ms="0" started-at="2020-01-01T13:19:55 CST" finished-at="2020-01-01T13:19:55 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertNull -->
+      </class> <!-- com.meyoung.day1.Assertdemo -->
+    </test> <!-- SeleniumDemo1912 -->
+  </suite> <!-- Default Suite (0) -->
+  <suite name="Default Suite" duration-ms="25076" started-at="2020-01-01T13:19:29 CST" finished-at="2020-01-01T13:19:54 CST">
+    <groups>
+    </groups>
+    <test name="SeleniumDemo1912" duration-ms="25076" started-at="2020-01-01T13:19:29 CST" finished-at="2020-01-01T13:19:54 CST">
+      <class name="com.meyoung.day1.TestNGDemo1">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:com.meyoung.day1.TestNGDemo1@1b26f7b2]" name="beforetest" is-config="true" duration-ms="15" started-at="2020-01-01T13:19:29 CST" finished-at="2020-01-01T13:19:29 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforemethod1()[pri:0, instance:com.meyoung.day1.TestNGDemo1@1b26f7b2]" name="beforemethod1" is-config="true" duration-ms="1" started-at="2020-01-01T13:19:29 CST" finished-at="2020-01-01T13:19:29 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod1 -->
+        <test-method status="PASS" signature="beforemethod1()[pri:0, instance:com.meyoung.day1.TestNGDemo1@1b26f7b2]" name="beforemethod1" is-config="true" duration-ms="2" started-at="2020-01-01T13:19:29 CST" finished-at="2020-01-01T13:19:29 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod1 -->
+        <test-method status="PASS" signature="testCasea()[pri:0, instance:com.meyoung.day1.TestNGDemo1@1b26f7b2]" name="testCasea" duration-ms="5003" started-at="2020-01-01T13:19:29 CST" finished-at="2020-01-01T13:19:34 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasea -->
+        <test-method status="PASS" signature="testCaseb()[pri:0, instance:com.meyoung.day1.TestNGDemo1@1b26f7b2]" name="testCaseb" duration-ms="5007" started-at="2020-01-01T13:19:29 CST" finished-at="2020-01-01T13:19:34 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseb -->
+        <test-method status="PASS" signature="afteremethod1()[pri:0, instance:com.meyoung.day1.TestNGDemo1@1b26f7b2]" name="afteremethod1" is-config="true" duration-ms="5001" started-at="2020-01-01T13:19:34 CST" finished-at="2020-01-01T13:19:39 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afteremethod1 -->
+        <test-method status="PASS" signature="afteremethod1()[pri:0, instance:com.meyoung.day1.TestNGDemo1@1b26f7b2]" name="afteremethod1" is-config="true" duration-ms="5003" started-at="2020-01-01T13:19:34 CST" finished-at="2020-01-01T13:19:39 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afteremethod1 -->
+        <test-method status="PASS" signature="beforemethod1()[pri:0, instance:com.meyoung.day1.TestNGDemo1@1b26f7b2]" name="beforemethod1" is-config="true" duration-ms="1" started-at="2020-01-01T13:19:39 CST" finished-at="2020-01-01T13:19:39 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod1 -->
+        <test-method status="PASS" signature="testTest1()[pri:0, instance:com.meyoung.day1.TestNGDemo1@1b26f7b2]" name="testTest1" duration-ms="5001" started-at="2020-01-01T13:19:39 CST" finished-at="2020-01-01T13:19:44 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTest1 -->
+        <test-method status="PASS" signature="beforemethod1()[pri:0, instance:com.meyoung.day1.TestNGDemo1@1b26f7b2]" name="beforemethod1" is-config="true" duration-ms="0" started-at="2020-01-01T13:19:39 CST" finished-at="2020-01-01T13:19:39 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod1 -->
+        <test-method status="PASS" signature="testTest2()[pri:0, instance:com.meyoung.day1.TestNGDemo1@1b26f7b2]" name="testTest2" duration-ms="5001" started-at="2020-01-01T13:19:39 CST" finished-at="2020-01-01T13:19:44 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTest2 -->
+        <test-method status="PASS" signature="afteremethod1()[pri:0, instance:com.meyoung.day1.TestNGDemo1@1b26f7b2]" name="afteremethod1" is-config="true" duration-ms="5000" started-at="2020-01-01T13:19:44 CST" finished-at="2020-01-01T13:19:49 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afteremethod1 -->
+        <test-method status="PASS" signature="afteremethod1()[pri:0, instance:com.meyoung.day1.TestNGDemo1@1b26f7b2]" name="afteremethod1" is-config="true" duration-ms="5000" started-at="2020-01-01T13:19:44 CST" finished-at="2020-01-01T13:19:49 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afteremethod1 -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:com.meyoung.day1.TestNGDemo1@1b26f7b2]" name="aftertest" is-config="true" duration-ms="5000" started-at="2020-01-01T13:19:49 CST" finished-at="2020-01-01T13:19:54 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- com.meyoung.day1.TestNGDemo1 -->
+    </test> <!-- SeleniumDemo1912 -->
+  </suite> <!-- Default Suite -->
+</testng-results>

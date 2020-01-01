@@ -4,12 +4,8 @@
   <test name="SeleniumDemo1912">
     <classes>
       <class name="com.meyoung.day1.TestNGDemo1">
-        <methods>
-          <exclude name="testTest2"/>
-        </methods>
       </class> <!-- com.meyoung.day3.RegisterTest -->
-      <class name="com.meyoung.day1.Assertdemo">
-      </class>
+
     </classes>
   </test> <!-- SeleniumDemo1912 -->
 </suite> <!-- Default Suite -->
