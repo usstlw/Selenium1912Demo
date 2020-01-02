@@ -19,13 +19,13 @@ public class TestNGDemo1 {
     @Test
     public void testTest1() throws InterruptedException {
         Thread.sleep(5000);
-        System.out.println("This is a testng comment1");
+        System.out.println("This is a testng test1 comment");
     }
 
     @Test
     public void testTest2() throws InterruptedException {
         Thread.sleep(5000);
-        System.out.println("This is a testng comment2");
+        System.out.println("This is a testng test2 comment");
     }
     @AfterTest
     public void aftertest() throws InterruptedException {
