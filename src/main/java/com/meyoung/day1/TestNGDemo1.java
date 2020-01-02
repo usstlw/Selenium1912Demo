@@ -10,8 +10,8 @@ public class TestNGDemo1 {
     }
 
     @BeforeMethod
-    public void beforemethod1(){
-        System.out.println("这是beformethod1注解");
+    public void beforemethod(){
+        System.out.println("这是beformethod注解");
     }
 
 
@@ -35,7 +35,7 @@ public class TestNGDemo1 {
 
 
     @AfterMethod
-    public void afteremethod1() throws InterruptedException {
+    public void afteremethod() throws InterruptedException {
         Thread.sleep(5000);
         System.out.println("这是@aftermethod注解");
     }
