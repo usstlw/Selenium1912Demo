@@ -32,18 +32,7 @@ public class TestNGDemo1 {
         Thread.sleep(5000);
         System.out.println("这是@aftertest注解");
     }
-    @Test
-    public void testCasea() throws InterruptedException {
-        Thread.sleep(5000);
-        System.out.println("这是@Testcasea注解");
-        Assert.assertEquals(    1,2);
-    }
 
-    @Test
-    public void testCaseb() throws InterruptedException {
-        Thread.sleep(5000);
-        System.out.println("这是@Testcaseb注解,case3");
-    }
 
     @AfterMethod
     public void afteremethod1() throws InterruptedException {
