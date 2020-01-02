@@ -59,7 +59,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <suiteXmlFile>./runTestng.xml</suiteXmlFile>
-                        <suiteXmlFile>./runTestng2.xml</suiteXmlFile>
+<!--                        <suiteXmlFile>./runTestng2.xml</suiteXmlFile>-->
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
